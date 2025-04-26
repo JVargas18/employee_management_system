@@ -1,0 +1,94 @@
+{
+  "common": {
+    "dashboard": "Panel de Control",
+    "clients": "Clientes",
+    "accounts": "Cuentas",
+    "loans": "Préstamos",
+    "reports": "Reportes",
+    "logout": "Cerrar Sesión",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "search": "Buscar",
+    "actions": "Acciones",
+    "status": "Estado",
+    "date": "Fecha",
+    "amount": "Monto",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "app":"Gestión de Fondos de Empleados"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "username": "Usuario",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "email": "Correo Electrónico",
+    "fullName": "Nombre Completo",
+    "createAccount": "Crear Cuenta",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "dontHaveAccount": "¿No tienes una cuenta?"
+  },
+  "clients": {
+    "title": "Clientes",
+    "addClient": "Agregar Cliente",
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "searchClients": "Buscar clientes..."
+  },
+  "accounts": {
+    "title": "Cuentas",
+    "newAccount": "Nueva Cuenta",
+    "accountNumber": "Número de Cuenta",
+    "accountType": "Tipo de Cuenta",
+    "selectClient": "Seleccionar Cliente",
+    "balance": "Saldo",
+    "initialBalance": "Saldo Inicial",
+    "searchAccounts": "Buscar cuentas...",
+    "status": {
+      "active": "Activo",
+      "inactive": "Inactivo"
+    },
+    "types": {
+      "savings": "Ahorros",
+      "checking": "Corriente",
+      "credit": "Crédito"
+    }
+  },
+  "loans": {
+    "title": "Préstamos",
+    "newLoan": "Nuevo Préstamo",
+    "applyForLoan": "Solicitar Préstamo",
+    "loanAmount": "Monto del Préstamo",
+    "interestRate": "Tasa de Interés",
+    "selectAccount": "Seleccionar Cuenta",
+    "selectClient": "Seleccionar Cliente",
+    "term": "Plazo",
+    "approve": "Aprobar",
+    "searchLoans": "Buscar préstamos...",
+    "months": "Meses",
+    "status": {
+      "approved": "Aprobado",
+      "pending": "Pendiente",
+      "rejected": "Rechazado"
+    }
+  },
+  "reports": {
+    "title": "Reportes de Préstamos",
+    "export": "Exportar",
+    "filter": "Filtrar",
+    "loanDistribution": "Distribución de préstamos",
+    "loanOverview": "Descripción general del préstamo",
+    "allLoans": "Todos los préstamos",
+    "loanDetails": "Detalles del préstamo",
+    "summary": {
+      "totalLoans": "Total de Préstamos",
+      "approvedLoans": "Préstamos Aprobados",
+      "pendingLoans": "Préstamos Pendientes",
+      "totalAmount": "Monto Total"
+    }
+  }
+}

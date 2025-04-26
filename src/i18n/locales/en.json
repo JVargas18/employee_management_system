@@ -1,0 +1,93 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "clients": "Clients",
+    "accounts": "Accounts",
+    "loans": "Loans",
+    "reports": "Reports",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "actions": "Actions",
+    "status": "Status",
+    "date": "Date",
+    "amount": "Amount",
+    "edit": "Edit",
+    "delete": "Delete",
+    "app":"Employee Fund Management"
+  },
+  "auth": {
+    "login": "Sign in",
+    "register": "Register",
+    "username": "Username",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "email": "Email",
+    "fullName": "Full Name",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "clients": {
+    "title": "Clients",
+    "addClient": "Add Client",
+    "name": "Name",
+    "phone": "Phone",
+    "address": "Address",
+    "searchClients": "Search clients..."
+  },
+  "accounts": {
+    "title": "Accounts",
+    "newAccount": "New Account",
+    "accountNumber": "Account Number",
+    "accountType": "Account Type",
+    "selectClient": "Select Client",
+    "balance": "Balance",
+    "initialBalance": "Initial Balance",
+    "searchAccounts": "Search accounts...",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "types": {
+      "savings": "Savings",
+      "checking": "Checking",
+      "credit": "Credit"
+    }
+  },
+  "loans": {
+    "title": "Loans",
+    "newLoan": "New Loan",
+    "applyForLoan": "Apply for Loan",
+    "loanAmount": "Loan Amount",
+    "interestRate": "Interest Rate",
+    "selectAccount": "Select Account",
+    "term": "Term",
+    "approve": "Approve",
+    "searchLoans": "Search loans...",
+    "months": "Months",
+    "status": {
+      "approved": "Approved",
+      "pending": "Pending",
+      "rejected": "Rejected"
+    }
+  },
+  "reports": {
+    "title": "Loan Reports",
+    "export": "Export",
+    "filter": "Filter",
+    "loanDistribution": "Loan Distribution",
+    "loanOverview": "Loan Overview",
+    "allLoans": "All loans",
+    "loanDetails": "Loan Details",
+    "summary": {
+      "totalLoans": "Total Loans",
+      "approvedLoans": "Approved Loans",
+      "pendingLoans": "Pending Loans",
+      "totalAmount": "Total Amount"
+    }
+  }
+}
