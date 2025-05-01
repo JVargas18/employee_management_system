@@ -41,7 +41,7 @@ A comprehensive web application for managing an employee fund, including user re
 
 1. Start the backend server:
    ```
-   npm run server
+   py api/app.py
    ```
 
 2. Start the frontend development server:
